@@ -1,12 +1,7 @@
 {
   "name": "nut",
-  "description": "Dear Lucy Coding Assignment",
-  "version": "1.0.0",
-  "private": true,
-  "author": {
-    "name": "Rasmus Back",
-    "email": "rasmus@dearlucy.co"
-  },
+  "description": "EmployeeChecking",
+  "version": "1.0.0",  
   "scripts": {
     "test": "mocha test/",
     "test-data": "node scripts/test-data.js"
